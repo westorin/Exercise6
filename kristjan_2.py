@@ -1,4 +1,9 @@
 for i in range(1,6):
-    print("mamma þín")
+<<<<<<< Updated upstream
+    print("pabbi þinn")
+=======
+    print("juliaercool")
+>>>>>>> Stashed changes
+
 
 print("cool")
